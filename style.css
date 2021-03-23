@@ -9,13 +9,18 @@ body {
 
 }
 .jumbotron {
-    background-color: hotpink;
+    background-image: url("https://cdn.hipwallpaper.com/i/23/32/oWUINC.jpg");
+    background-attachment: scroll;
+    background-position: 50%;
 }
 
 .col-6 {
     background-color: pink;
 }
 
-.col-4 {
+.col-2 {
     background-color: pink;
+}
+.card {
+    background-image: url("https://wallpapercave.com/wp/yFk2QjB.png");
 }
