@@ -11,3 +11,7 @@ body {
 .jumbotron {
     background-color: hotpink;
 }
+
+.col-6 {
+    background-color: pink;
+}
