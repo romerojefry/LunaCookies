@@ -6,12 +6,6 @@ h2 {
 }
 body {
     background-color: lightskyblue;
-
-}
-.jumbotron {
-    background-image: url("https://cdn.hipwallpaper.com/i/23/32/oWUINC.jpg");
-    background-attachment: scroll;
-    background-position: 100%;
 }
 
 .col-6-xs {
